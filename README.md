@@ -2,7 +2,9 @@
 
 Desenvolvi esta landing page durante meus estudos no curso de tecnologia da Escola DNC, colocando em prática os fundamentos de HTML, CSS e JavaScript. A proposta foi construir uma página de apresentação de um curso gratuito, reunindo informações, vídeo, depoimentos e um formulário de interesse.
 
-**[Acesse a demonstração online](https://emanoel-landing-pag-dnc.netlify.app/)**
+**Versão disponível: somente para computador (desktop).** Desenvolvi o layout para visualização em computadores; o projeto não possui versão adaptada para celulares ou tablets.
+
+**[Acesse a demonstração online pelo computador](https://emanoel-landing-pag-dnc.netlify.app/)**
 
 ## O desafio
 
